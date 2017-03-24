@@ -26,7 +26,9 @@ conda create -n kaggle-mnist-snn python=3
 activate kaggle-mnist-snn
 conda install matplotlib scipy jupyter notebook
 ```
-After creating conda environment, clone or download zip (and then extract) this repository on your local machine, cd to that directory in your terminal or shell and then run following command
+After creating conda environment, clone this repository on your local machine via Git or [GitHub Desktop](https://desktop.github.com)
+
+under kaggle-mnist-snn environment on your terminal or shell window, cd to clone directory and then run following command:
 
 ```
 jupyter notebook first_neural_network.ipynb
