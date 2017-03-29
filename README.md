@@ -1,6 +1,6 @@
 # kaggle-mnist-with-simple-neural-network
 
-Result = 0.97243 (TOP 40% of Leaderboard)
+Result = 0.97529 (TOP 39% of Leaderboard, at the time of writing this line)
 
 Submission for Kaggle mnist Challenge, with Simple Neural Network aka SNN based on pure python, scipy and numpy, no deep learning packages (Tensor Flow, Theano, Torch) used..
 
